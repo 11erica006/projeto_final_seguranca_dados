@@ -1,0 +1,20 @@
+Item	                                      Resposta	                                                              Justificativa
+Tela bloqueada quando o 	          Sim (manualmente)         Segundo o proprietário, ele bloqueia a tela ao se afastar. Não foi observado bloqueio automático por inatividade (EV-14).
+proprietário se ausenta	
+
+
+
+Cuidados com acesso físico 	                 Sim	                                            Segundo o proprietário, o notebook é transportado com cuidado.
+e transporte do equipamento
+
+
+Senhas e informações 	                    Não observado	     Não foi relatado nem verificado nada sobre isso. Se vocês olharam o ambiente (sem abrir nada), registrem o que foi visto.
+sensíveis não ficam expostas
+
+
+Mídias removíveis desconhecidas 	          Sim	                                              Segundo o proprietário, há cautela com USB desconhecido.
+são tratadas com cautela
+
+
+Proteção razoável contra                    não verificado	                           Criptografia informada como ativa, mas não confirmada. Backup sem teste de restauração.
+perda ou furto	Parcialmente
